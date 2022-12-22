@@ -1,0 +1,22 @@
+package com.google.android.gms.internal.ads;
+
+public final class u71 implements a92<s71> {
+  private final m92<nt1> a;
+  
+  private final m92<lh1> b;
+  
+  private u71(m92<nt1> paramm92, m92<lh1> paramm921) {
+    this.a = paramm92;
+    this.b = paramm921;
+  }
+  
+  public static u71 a(m92<nt1> paramm92, m92<lh1> paramm921) {
+    return new u71(paramm92, paramm921);
+  }
+}
+
+
+/* Location:              /home/sumith/decompile/test/classes-dex2jar.jar!/com/google/android/gms/internal/ads/u71.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       1.1.3
+ */

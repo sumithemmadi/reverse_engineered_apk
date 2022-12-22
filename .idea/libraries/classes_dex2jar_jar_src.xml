@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes-dex2jar.jar.src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/classes-dex2jar.jar.src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

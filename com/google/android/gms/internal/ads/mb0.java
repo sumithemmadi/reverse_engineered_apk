@@ -1,0 +1,21 @@
+package com.google.android.gms.internal.ads;
+
+import java.util.Set;
+
+public final class mb0 implements a92<kb0> {
+  private final m92<Set<gb0<lb0>>> a;
+  
+  private mb0(m92<Set<gb0<lb0>>> paramm92) {
+    this.a = paramm92;
+  }
+  
+  public static mb0 a(m92<Set<gb0<lb0>>> paramm92) {
+    return new mb0(paramm92);
+  }
+}
+
+
+/* Location:              /home/sumith/decompile/test/classes-dex2jar.jar!/com/google/android/gms/internal/ads/mb0.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       1.1.3
+ */

@@ -1,0 +1,13 @@
+package com.google.android.gms.internal.ads;
+
+public final class e2 {
+  public static t1<Boolean> a = t1.d("gads:debug_logging_feature:enable", false);
+  
+  public static t1<Boolean> b = t1.d("gads:debug_logging_feature:intercept_web_view", false);
+}
+
+
+/* Location:              /home/sumith/decompile/test/classes-dex2jar.jar!/com/google/android/gms/internal/ads/e2.class
+ * Java compiler version: 6 (50.0)
+ * JD-Core Version:       1.1.3
+ */
